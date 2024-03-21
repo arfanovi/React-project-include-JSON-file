@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "name": "Rolex Submariner",
+      "image": "https://cdn.pixabay.com/photo/2017/07/26/02/22/watch-2541918_960_720.jpg",
+      "country": "Switzerland",
+      "price": 8000
+    },
+    {
+      "id": 2,
+      "name": "Omega Speedmaster Professional",
+      "image": "https://cdn.pixabay.com/photo/2017/08/07/08/32/watch-2604587_960_720.jpg",
+      "country": "Switzerland",
+      "price": 5000
+    },
+    {
+      "id": 3,
+      "name": "Seiko SKX007",
+      "image": "https://cdn.pixabay.com/photo/2016/01/19/16/59/watch-1149411_960_720.jpg",
+      "country": "Japan",
+      "price": 200
+    },
+    {
+      "id": 4,
+      "name": "Audemars Piguet Royal Oak",
+      "image": "https://cdn.pixabay.com/photo/2016/11/19/13/16/watch-1837368_960_720.jpg",
+      "country": "Switzerland",
+      "price": 20000
+    },
+    {
+      "id": 5,
+      "name": "Casio G-Shock DW5600E",
+      "image": "https://cdn.pixabay.com/photo/2017/03/17/04/01/watch-2159724_960_720.jpg",
+      "country": "Japan",
+      "price": 100
+    },
+    {
+      "id": 6,
+      "name": "Patek Philippe Nautilus",
+      "image": "https://cdn.pixabay.com/photo/2017/08/07/08/32/watch-2604585_960_720.jpg",
+      "country": "Switzerland",
+      "price": 30000
+    },
+    {
+      "id": 7,
+      "name": "Tag Heuer Carrera",
+      "image": "https://cdn.pixabay.com/photo/2015/09/20/08/58/watch-948849_960_720.jpg",
+      "country": "Switzerland",
+      "price": 6000
+    },
+    {
+      "id": 8,
+      "name": "Timex Weekender",
+      "image": "https://cdn.pixabay.com/photo/2015/05/15/14/38/watch-767754_960_720.jpg",
+      "country": "United States",
+      "price": 50
+    }
+  ]
+  
